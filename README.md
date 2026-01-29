@@ -33,91 +33,91 @@ The dataset contains customer-level Diwali sales data, including:
 ## Steps Followed in the Analysis
 1. Importing Required Libraries
 
-All necessary Python libraries for data manipulation and visualization were imported.
+- All necessary Python libraries for data manipulation and visualization were imported.
 
 2. Data Inspection
 
-Checked dataset shape and column information
+- Checked dataset shape and column information
 
-Identified missing/null values
+- Identified missing/null values
 
 3. Data Cleaning
 
-Dropped rows with null values
+- Dropped rows with null values
 
-Renamed columns for better readability
+- Renamed columns for better readability
 
-Ensured correct data types for analysis
+- Ensured correct data types for analysis
 
 4. Exploratory Data Analysis (EDA)
 
-Multiple visualizations were created to analyze:
+- Multiple visualizations were created to analyze:
 
-Gender-wise purchasing behavior
+- Gender-wise purchasing behavior
 
-Age group distribution
+- Age group distribution
 
-State-wise orders and revenue
+- State-wise orders and revenue
 
-Marital status vs spending patterns
+- Marital status vs spending patterns
 
-Occupation-wise customer distribution
+- Occupation-wise customer distribution
 
-Product category performance
+- Product category performance
 
-Top-selling products
+- Top-selling products
 
 ## Key Insights from the Analysis
 
 ### Gender-Based Insights
 
-Female customers form the majority of buyers.
+- Female customers form the majority of buyers.
 
-Females contribute more to overall revenue compared to male customers.
+- Females contribute more to overall revenue compared to male customers.
 
-Female customers also show higher purchasing power.
+- Female customers also show higher purchasing power.
 
 ### Age Group Analysis
 
-Customers aged 26–35 years are the largest and most active buyer group.
+- Customers aged 26–35 years are the largest and most active buyer group.
 
-Majority of high-value purchases come from women in the 26–35 age group.
+- Majority of high-value purchases come from women in the 26–35 age group.
 
 ### State-Wise Sales
 
 The highest number of orders and total sales come from:
 
-Uttar Pradesh
+- Uttar Pradesh
 
-Maharashtra
+- Maharashtra
 
-Karnataka
+- Karnataka
 
 ### Marital Status
 
-Married women dominate purchasing activity.
+- Married women dominate purchasing activity.
 
-This group shows strong spending capacity, especially during festive sales.
+- This group shows strong spending power, especially during festive sales.
 
 ### Occupation Insights
 
 Most buyers belong to the following sectors:
 
-IT
+- IT
 
-Healthcare
+- Healthcare
 
-Aviation
+- Aviation
 
 ### Product Category Performance
 
 Top-selling product categories:
 
-Food
+- Food
 
-Clothing
+- Clothing
 
-Electronics
+- Electronics
 
 ### Top Products
 
