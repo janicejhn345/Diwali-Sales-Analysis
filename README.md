@@ -4,6 +4,11 @@ This project focuses on Exploratory Data Analysis (EDA) of a Diwali sales datase
 
 The goal of this project is to understand who buys more, what they buy, and from where, which can help businesses improve marketing strategies, inventory planning, and customer targeting during festive seasons.
 
+## Project Learnings
+- Performed data cleaning and data manipulation.
+- Identified potential customers across different states, occupations, genders, and age groups to improve customer experience.
+- Analyzed top-selling product categories and products to support better inventory planning and meet customer demand.
+
 ## Tools & Libraries Used
 
 - Python
